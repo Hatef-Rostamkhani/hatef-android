@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">هاتف</string>
+    <string name="copy_push_id">کپی شناسه پوش</string>
+    <string name="push_id_pending">شناسه هنوز آماده نیست. اینترنت و سرویس‌های گوگل را بررسی کنید.</string>
+    <string name="push_id_copied">شناسه نصب کپی شد</string>
+    <string name="push_channel_name">اعلان‌های هاتف</string>
+    <string name="notification_default_title">هاتف</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343425175985",
+    "project_id": "hatef-platform",
+    "storage_bucket": "hatef-platform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343425175985:android:d446be43b58faf48e66d90",
+        "android_client_info": {
+          "package_name": "ir.hatef.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApZwDn4pu1rds9Z5V9W3D8jBB1LH0y21I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
