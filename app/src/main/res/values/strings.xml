@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hatef</string>
+    <string name="copy_push_id">Copy Push ID</string>
+    <string name="push_id_pending">Push registration is not ready yet. Check your connection and Google Play services.</string>
+    <string name="push_id_copied">Push installation ID copied</string>
+    <string name="push_channel_name">Hatef notifications</string>
+    <string name="notification_default_title">Hatef</string>
+</resources>

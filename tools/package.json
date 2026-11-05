@@ -1,0 +1,13 @@
+{
+  "name": "hatef-fcm-development-tools",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-only Firebase push test for Hatef Android",
+  "scripts": {
+    "send": "node send-test-notification.mjs"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.5.0"
+  }
+}

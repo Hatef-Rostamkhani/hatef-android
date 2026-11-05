@@ -1,0 +1,24 @@
+# Gradle and Android build outputs
+.gradle/
+**/build/
+*.apk
+*.aab
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# Local IDE state
+.idea/
+*.iml
+.DS_Store
+
+# Signing credentials and server-side secrets
+*.jks
+*.keystore
+key.properties
+*service-account*.json
+*adminsdk*.json
+.env
+.env.*
+
+# Intentionally tracked: app/google-services.json is public Firebase app config.
