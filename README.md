@@ -12,7 +12,7 @@ The official Android application for [Hatef](https://hatef.ir). The initial rele
 | --- | --- |
 | Application ID | `ir.hatef.app` |
 | App language | Kotlin |
-| Android minimum | API 23 |
+| Android minimum | API 24 |
 | Android target | API 35 |
 | Compile SDK | API 36 |
 | UI | Android System WebView |
