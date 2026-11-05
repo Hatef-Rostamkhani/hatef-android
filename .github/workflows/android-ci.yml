@@ -20,7 +20,7 @@ jobs:
     timeout-minutes: 35
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Validate Firebase app configuration
         run: python3 tools/verify_firebase_config.py
