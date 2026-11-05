@@ -22,7 +22,7 @@ The official Android application for [Hatef](https://hatef.ir). The initial rele
 
 ## Quick start
 
-1. Install Android Studio, JDK 17, Android SDK Platform 36, and Gradle **8.11.1**.
+1. Install Android Studio, JDK 17, Android SDK Platform 36, and Gradle **9.8.2**.
 2. Open this repository as a Gradle project. The Firebase Android configuration is provided in `app/google-services.json`.
 3. Build via **Android Studio** or run `gradle :app:assembleDebug`.
 4. Install `app/build/outputs/apk/debug/app-debug.apk` on a device with compatible Google Play services.
@@ -30,7 +30,7 @@ The official Android application for [Hatef](https://hatef.ir). The initial rele
 6. The debug APK displays a **Copy Push ID** button. Once FCM registration succeeds, copy your Firebase Installation ID (FID).
 7. For a test push, follow [Firebase setup](docs/FIREBASE.md).
 
-CI installs a pinned Gradle version through the official Gradle GitHub Action, so no machine-wide Gradle installation is required on GitHub runners. A project Gradle Wrapper is not yet included; the pinned version above is required for local CLI builds.
+CI installs a pinned Gradle version through the official Gradle GitHub Action, so no machine-wide Gradle installation is required on GitHub runners. A project Gradle Wrapper is not yet included; the pinned version above is required for local CLI builds. Android Gradle Plugin **9.5.0** provides built-in Kotlin support.
 
 ## CI and artifacts
 
